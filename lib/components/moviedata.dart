@@ -1,0 +1,1 @@
+List<String> movie = ['https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkDthX0FH-SzyixFwRAlIF-8Zm9OqNOc9lLtIMbbyOTjTwaDuE',''];
